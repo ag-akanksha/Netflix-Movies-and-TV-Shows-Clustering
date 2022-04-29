@@ -9,7 +9,7 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 ### In this project, we performed:
 
-###    **Exploratory Data Analysis**
+###    **1) Exploratory Data Analysis**
 
 ![image](https://user-images.githubusercontent.com/98693201/165900176-5993b5e5-1e07-4324-959e-9b617889f2b4.png)
 ![image](https://user-images.githubusercontent.com/98693201/165900720-4511c4b8-2bc1-4238-a746-04a28b31ce03.png)
@@ -18,16 +18,16 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 
 
 
-###    **Understanding what type content is available in different countries**
+###    **2) Understanding what type content is available in different countries**
 
 ![image](https://user-images.githubusercontent.com/98693201/165900265-db40949d-8c89-4428-8c11-0f65c91397f5.png)
 
 
-###    **Is Netflix has increasingly focusing on TV rather than movies in recent years**.
+###    **3) Is Netflix has increasingly focusing on TV rather than movies in recent years**.
 ![image](https://user-images.githubusercontent.com/98693201/165900905-85640de7-6918-416b-b587-83d251063ab1.png)
 ![image](https://user-images.githubusercontent.com/98693201/165900947-d68960a4-4b43-4465-ab98-1d003f65e455.png)
 
-###   **Clustering similar content by matching text-based features**
+###   **4) Clustering similar content by matching text-based features**
 
 ![image](https://user-images.githubusercontent.com/98693201/165901351-de53f501-cb07-4afe-b6e5-3666ee4d12bb.png)
 
