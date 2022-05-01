@@ -15,7 +15,14 @@ In 2018, they released an interesting report which shows that the number of TV s
 
 Integrating this dataset with other external datasets such as IMDB ratings, rotten tomatoes can also provide many interesting findings.
 
-<p>We have clustered Netflix Movies And TV Shows Data with K-Means Clustring in Google Colab </p>
+In this project, you are required to do
+*  Exploratory Data Analysis
+
+*  Understanding what type content is available in different countries
+
+*  Is Netflix has increasingly focusing on TV rather than movies in recent years.
+
+*  Clustering similar content by matching text-based features
 
 <h2> :floppy_disk: Project Files Description</h2>
 
