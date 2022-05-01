@@ -26,12 +26,13 @@ In this project, you are required to do
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
+<p>This Project includes 2 colab notebook, 1 for EDA and other for clustering: </p>
 <h4>Executable Files:</h4>
 <ul>
-  <li><b>TEAM_REALITY_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb</b> - Includes all functions required for classification operations.</li>
+  <li><b>EDA-NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb</b> - Includes all Exploratory Data Analysis functions required for classification operations.</li>
 </ul>
-
+<li><b>Clustering-NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb</b> - Includes all functions required for Clustering operations.</li>
+</ul>
 <h4>Output:</h4>
 <ul>
   <li><b>Google Colab</b> - All the outputs are visible in the provided colab notebook.
@@ -46,7 +47,7 @@ In this project, you are required to do
 
 <h2> :book: K-Means And Recommender System</h2>
 
-<p>We have used a K Means clustering with an optimal value of k=9 for clustering the Text Based Columns. The value of k was chosen from the elbow method of WCSS score and silhouette score. 
+<p>We have used a K Means clustering with an optimal value of k=6 for clustering the Text Based Columns. The value of k was chosen from the elbow method of WCSS score and silhouette score. 
 
 We were able to come up with the following clusters and name it accordingly. 
 
@@ -56,11 +57,6 @@ We were able to come up with the following clusters and name it accordingly.
 4. Cluster 3: Documentaries, Sports
 5. Cluster 4: Drama, American, Adventure
 6. Cluster 5: Comedy
-7. Cluster 6: Horror
-8. Cluster 7: International TV Shows
-9. Cluster 8: Family Movies
-  
-A simple recommendation system was also made as an additional project on cosine similarity of description column and movie column, it also experimented in the notebook.
 
 </p>
 
